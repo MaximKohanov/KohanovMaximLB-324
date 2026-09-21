@@ -23,6 +23,7 @@ pre-commit run --all-files
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
 
 Die Applikation läuft unter: https://kohanovmaxim-lb324-e0hzhhcbdsfcd4g9.germanywestcentral-01.azurewebsites.net/
+Password: MaximKohanov
 
 Passwort auf Azure setzen:
 Man geht auf Azure Portal -> App Services -> Web App öffnen
