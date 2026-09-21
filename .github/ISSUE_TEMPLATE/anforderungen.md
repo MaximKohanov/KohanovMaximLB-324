@@ -1,6 +1,6 @@
 ---
 name: Anforderung
-about: Neue Anforderung erfassen
+about: Neue Anforderung nach Satzschablone erfassen
 title: "[Anforderung] "
 ---
 
@@ -20,7 +20,7 @@ Aufbau: Zielsystem + Priorität + Systemaktivität + Ergänzungen + Funktionalit
 
 ## Anforderung als ganzer Satz
 
-Zielsystem muss/soll/wird..
+Zielsystem muss/soll/wird ... ,
 
 ## Typ
 
