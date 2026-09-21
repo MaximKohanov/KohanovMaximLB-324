@@ -4,10 +4,6 @@ about: Neue Anforderung nach Satzschablone erfassen
 title: "[Anforderung] "
 ---
 
-## Bausteine
-
-Aufbau: Zielsystem + Priorität + Systemaktivität + Ergänzungen + Funktionalität + Bedingungen
-
 - **Zielsystem:** (betroffenes (Teil-)System, z. B. Tagebbbuch)
 - **Priorität:** (muss = hoch / soll = mittel / wird = niedrig)
 - **Systemaktivität:**
